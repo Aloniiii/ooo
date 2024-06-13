@@ -1,0 +1,44 @@
+body{
+	font-family:arial, sans-serif,helvetica;
+	background:#e8e8e8;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: "calibri light"
+}
+
+.contenedor{
+		width: 80%;
+	margin-top: 80px;
+	margin-left: 190PX;
+}

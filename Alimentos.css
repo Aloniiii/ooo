@@ -1,0 +1,74 @@
+body{font-family: arial
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-family: roboto;
+	font-size: 40;
+	color: #7B68BB;
+	text-align: center; 
+}
+
+table, td, th{
+	border: 5px solid rgba(0,0,0, .2);
+	border-color: #9370DB;
+}
+
+table{
+	border-collapse: collapse;
+	width: 700px;
+	text-align: center;
+	margin: 50px auto;
+}
+
+th, td{
+	padding: 20px 30px;
+}
+
+th{
+	background: #483D8B;
+	color: #E6E6FA;
+}
+
+td{
+	color: #ffffff;
+}
+
+tr:hover{
+	background: #9370DB;
+}
+
+.cuerpo_pagina{
+	font-family: "comic sans"
+	background: url("Fondo.jpeg");
+	background-repeat: repeat;
+}

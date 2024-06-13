@@ -1,0 +1,49 @@
+body{
+	font-family: Arial, sans-serif, helvetica;
+	/background: #A753F6;/
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+.menu li a{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	/background: #A753F6;/
+}
+
+.cuerpo_pagina{
+	font-family: "comic sans"
+	background: url("Fondo.jpeg");
+	background-repeat: repeat;
+}
+
+footer{
+	background: #989798;
+	height: 85px;
+}
